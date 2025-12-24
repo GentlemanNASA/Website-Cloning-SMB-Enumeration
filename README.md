@@ -71,5 +71,5 @@ I used the -a flag (Do All) to perform a comprehensive scan of the target.
 
 Bash
 
-# Syntax: enum4linux -a <Target_IP>
-enum4linux -a 10.6.6.x
+# Syntax: enum4linux -a 172.17.0.6
+enum4linux -a 172.17.0.6
